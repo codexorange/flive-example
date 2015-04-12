@@ -1,0 +1,40 @@
+body {
+	background: url(../img/background.jpg);
+	background-size: cover;
+}
+
+.title {
+	color: #fff;
+}
+
+#event{
+	position: fixed;
+  bottom: 0;
+  background: #fff;
+  width: 100%;
+  padding: 20px 0px 20px 0px
+}
+
+#photo {
+	display: inline-block;
+}
+
+#messages {
+	margin-bottom: 200px;
+}
+
+.message {
+	background: #fff;
+	padding: 25px;
+	border-radius: 10px;
+	margin-bottom: 20px
+}
+
+.photo {
+	text-align: center
+}
+
+.photo img {
+	width: 600px;
+	height: auto;
+}
